@@ -23,8 +23,6 @@ O objetivo deste projeto é difundir a cultura afro-brasileira no currículo esc
 
 ## Execução do Projeto
 
-Executar o:
-
 ```bash
 autorun.exe
 ```
