@@ -15,7 +15,7 @@ Os dados que são de posse do projeto (banco de dados e dados técnicos) não po
 ## Instalação
 
 Este projeto está licenciado a ser instalado e utilizado por alunos de escolas do estado do Rio de Janeiro e outros dentro da instituição de ensino como suporte ao currículo escolar. A instituição, alunos, professores e outrem não possuem permissão de mover, copiar, renomear, atualizar ou qualquer outro tipo de ação ao programa ou aos dados do mesmo.
-Alunos e professores não têm permissão de utilizarem este programa fora da instituição de ensino, sob pena de adulteração de produto FAPERJ, e fica e encargo da FAPERJ os direitos autorais, este é licenciado apenas à instituição de ensino.
+Alunos e professores não têm permissão de utilizarem este programa fora da instituição de ensino, sob pena de adulteração de produto FAPERJ; este software é licenciado apenas à instituição de ensino.
 
 ## Objetivo
 
@@ -23,6 +23,8 @@ O objetivo deste projeto é difundir a cultura afro-brasileira no currículo esc
 
 ## Execução do Projeto
 
+Executar o:
+
 ```bash
-executar o autorun.exe
+autorun.exe
 ```
