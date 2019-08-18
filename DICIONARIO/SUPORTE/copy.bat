@@ -1,0 +1,1 @@
+copy [E:\Thiago\PROBELS\Projeto Faperj\DICIONARIO\SUPORTE\qtintf70.dll] [C:\WINDOWS\system32]

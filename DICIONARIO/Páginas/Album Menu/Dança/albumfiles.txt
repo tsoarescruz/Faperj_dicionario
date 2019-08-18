@@ -1,0 +1,33 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+ and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+8467~Jazz-Lady-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\8467~Jazz-Lady-Posters.jpg
+Angola.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Angola.jpg
+Batizado em Recife.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Batizado em Recife.jpg
+Beira do Mar.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Beira do Mar.jpg
+Chamada.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Chamada.jpg
+Cigana e Negao2.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Cigana e Negao2.jpg
+De Jesus.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\De Jesus.jpg
+Jiu-Jitsu.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Jiu-Jitsu.jpg
+Jogo Bonito.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Jogo Bonito.jpg
+Jogo na Praia.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Jogo na Praia.jpg
+Malicia.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Malicia.jpg
+Mandinga.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Mandinga.jpg
+Mercado Mudelo.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Mercado Mudelo.jpg
+Mestre Joao Grande.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Mestre Joao Grande.jpg
+Mestre Pastinha.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Mestre Pastinha.jpg
+Montana 229 026.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Montana 229 026.jpg
+Roda no Itapsuma.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Roda no Itapsuma.jpg
+S501~Rejoice-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\S501~Rejoice-Posters.jpg
+S502~Dance-of-Joy-I-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\S502~Dance-of-Joy-I-Posters.jpg
+S503~Dance-of-Joy-II-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\S503~Dance-of-Joy-II-Posters.jpg
+S556~Whisper-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\S556~Whisper-Posters.jpg
+S666~Graceful-Motion-I-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\S666~Graceful-Motion-I-Posters.jpg
+S667~Graceful-Motion-II-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\S667~Graceful-Motion-II-Posters.jpg
+S668~Graceful-Motion-III-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\S668~Graceful-Motion-III-Posters.jpg
+Uma historia de luta e liberdade.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Dança\Uma historia de luta e liberdade.jpg

@@ -1,0 +1,45 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+ and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+04128~Lion-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\04128~Lion-Posters.jpg
+04130~Zebras-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\04130~Zebras-Posters.jpg
+10741~Shadow-of-Love-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\10741~Shadow-of-Love-Posters.jpg
+10742~Gentle-Touch-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\10742~Gentle-Touch-Posters.jpg
+1180~Lion-at-Sunset-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\1180~Lion-at-Sunset-Posters.jpg
+2400-1148~Lion-and-Baby-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\2400-1148~Lion-and-Baby-Posters.jpg
+411137~Tiger-at-Sunset-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\411137~Tiger-at-Sunset-Posters.jpg
+649-22241~Jungle-Giraffes-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\649-22241~Jungle-Giraffes-Posters.jpg
+649-22242~Jungle-Elephants-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\649-22242~Jungle-Elephants-Posters.jpg
+649-22244~Jungle-Cheetahs-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\649-22244~Jungle-Cheetahs-Posters.jpg
+9270~Leopard-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\9270~Leopard-Posters.jpg
+AB4708~Elephant-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\AB4708~Elephant-Posters.jpg
+ab6295~Momma-s-Boy-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\ab6295~Momma-s-Boy-Posters.jpg
+AB71789~Four-Zebras-Drinking-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\AB71789~Four-Zebras-Drinking-Posters.jpg
+ARM677~National-Park-of-Serengeti-Tanzania-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\ARM677~National-Park-of-Serengeti-Tanzania-Posters.jpg
+B001~The-Masai-Giraffe-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\B001~The-Masai-Giraffe-Posters.jpg
+B002~The-Masai-Zebra-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\B002~The-Masai-Zebra-Posters.jpg
+B003~Two-Zebras-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\B003~Two-Zebras-Posters.jpg
+BR-A175~Couple-de-Zebras-II-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\BR-A175~Couple-de-Zebras-II-Posters.jpg
+BR-H3020~Kenya-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\BR-H3020~Kenya-Posters.jpg
+EUS500~Giraffe-First-Kiss-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\EUS500~Giraffe-First-Kiss-Posters.jpg
+FA509~Eyes-of-the-Goddess-Sumatran-Tigress-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\FA509~Eyes-of-the-Goddess-Sumatran-Tigress-Posters.jpg
+GC142~Elephant-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\GC142~Elephant-Posters.jpg
+GE5109~Lion-Portrait-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\GE5109~Lion-Portrait-Posters.jpg
+GOGP10254~Striped-Innocence-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\GOGP10254~Striped-Innocence-Posters.jpg
+GOGP10255~Proud-Mother-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\GOGP10255~Proud-Mother-Posters.jpg
+GOGP10256~Protective-Care-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\GOGP10256~Protective-Care-Posters.jpg
+GOGP10447~Maternal-Instincts-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\GOGP10447~Maternal-Instincts-Posters.jpg
+GOGP10483~Forever-Safe-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\GOGP10483~Forever-Safe-Posters.jpg
+GOGP10484~Gentle-Giants-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\GOGP10484~Gentle-Giants-Posters.jpg
+GOGP10484~Gentle-Giants-Posters_02.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\GOGP10484~Gentle-Giants-Posters_02.jpg
+GOGV10448~Love-and-Devotion-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\GOGV10448~Love-and-Devotion-Posters.jpg
+PH0142~A-Mother-s-Love-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\PH0142~A-Mother-s-Love-Posters.jpg
+PH0207~White-Tiger-Cubs-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\PH0207~White-Tiger-Cubs-Posters.jpg
+r2206~Hair-Raising-Experience-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\r2206~Hair-Raising-Experience-Posters.jpg
+TCH6166~Regal-Beauty-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\TCH6166~Regal-Beauty-Posters.jpg
+TCL6167~Serengeti-Predator-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Animais\TCL6167~Serengeti-Predator-Posters.jpg

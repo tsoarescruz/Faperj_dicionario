@@ -1,0 +1,5 @@
+** Local da DLL QTintf **
+
+ Local: C:\WINDOWS\system32\
+
+ Download - http://www.dynamiclink.nl/htmfiles/rframes/info_dll/info_q/121.htm

@@ -1,0 +1,47 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+ and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+055_S555~Sisters-in-Spirit-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\055_S555~Sisters-in-Spirit-Posters.jpg
+10063938A~Afrique-du-Sud-1981-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\10063938A~Afrique-du-Sud-1981-Posters.jpg
+105A~Woman-with-Bowl-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\105A~Woman-with-Bowl-Posters.jpg
+11-1158-MEBU000Z.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\11-1158-MEBU000Z.jpg
+11-1158-UEBU000Z.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\11-1158-UEBU000Z.jpg
+11-1158-VEBU000Z.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\11-1158-VEBU000Z.jpg
+11759292B~The-Conductor-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\11759292B~The-Conductor-Posters.jpg
+1194~Noche-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\1194~Noche-Posters.jpg
+12039~Caress-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\12039~Caress-Posters.jpg
+2355~Tranquility-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\2355~Tranquility-Posters.jpg
+2494~Ariel-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\2494~Ariel-Posters.jpg
+2713~We-Are-Sisters-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\2713~We-Are-Sisters-Posters.jpg
+6086-12~Seated-Woman-II-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\6086-12~Seated-Woman-II-Posters.jpg
+7442~Beauty-of-Color-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\7442~Beauty-of-Color-Posters.jpg
+8745~Soul-s-Flight-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\8745~Soul-s-Flight-Posters.jpg
+A5667_CAT~Balanced-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\A5667_CAT~Balanced-Posters.jpg
+ARM263~Women-of-Kenya-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\ARM263~Women-of-Kenya-Posters.jpg
+C016~Warrior-Male-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\C016~Warrior-Male-Posters.jpg
+C017~Warrior-Female-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\C017~Warrior-Female-Posters.jpg
+C017~Warrior-Female-Posters_02.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\C017~Warrior-Female-Posters_02.jpg
+CAP_8640~Jubilation-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\CAP_8640~Jubilation-Posters.jpg
+D011~Le-sourire-I-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\D011~Le-sourire-I-Posters.jpg
+GC152~Ethopian-Female-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\GC152~Ethopian-Female-Posters.jpg
+GC153~Female-Eyes-Open-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\GC153~Female-Eyes-Open-Posters.jpg
+IBU_4516~Meres-et-Enfants-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\IBU_4516~Meres-et-Enfants-Posters.jpg
+IL_5416~Femme-Africaine-V-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\IL_5416~Femme-Africaine-V-Posters.jpg
+IL_5417~Femme-Africaine-VI-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\IL_5417~Femme-Africaine-VI-Posters.jpg
+S2866_27-5x39-25~Girl-with-Circles-on-Hat-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\S2866_27-5x39-25~Girl-with-Circles-on-Hat-Posters.jpg
+S2867_27-5x39-25~Girl-with-Black-and-White-Striped-Headband-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\S2867_27-5x39-25~Girl-with-Black-and-White-Striped-Headband-Posters.jpg
+S347~Women-Who-Look-Ahead-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\S347~Women-Who-Look-Ahead-Posters.jpg
+S477~Soulful-Grace-I-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\S477~Soulful-Grace-I-Posters.jpg
+S482~Soul-Mate-II-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\S482~Soul-Mate-II-Posters.jpg
+S500~Men-of-Vision-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\S500~Men-of-Vision-Posters.jpg
+S569~Wrapped-in-the-Moment-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\S569~Wrapped-in-the-Moment-Posters.jpg
+S570~Wrapped-in-the-Glow-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\S570~Wrapped-in-the-Glow-Posters.jpg
+S805~Inner-Peace-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\S805~Inner-Peace-Posters.jpg
+SKN01~Mama-s-Blues-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\SKN01~Mama-s-Blues-Posters.jpg
+SKN02~Desert-Rose-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\SKN02~Desert-Rose-Posters.jpg
+SKN04~Chocolat-Noir-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Pessoas\SKN04~Chocolat-Noir-Posters.jpg

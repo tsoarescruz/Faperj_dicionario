@@ -1,0 +1,19 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+ and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+10062211C~African-Musicians-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\10062211C~African-Musicians-Posters.jpg
+10121621B~Blues-Club-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\10121621B~Blues-Club-Posters.jpg
+10121623A~Swingtime-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\10121623A~Swingtime-Posters.jpg
+15~Trumpet-Man-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\15~Trumpet-Man-Posters.jpg
+19~Blues-Man-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\19~Blues-Man-Posters.jpg
+6188~Piano-Man-II-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\6188~Piano-Man-II-Posters.jpg
+AB8679~Celebration-of-Life-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\AB8679~Celebration-of-Life-Posters.jpg
+G413~Lounge-Smoke-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\G413~Lounge-Smoke-Posters.jpg
+G414~DJ-Jewel-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\G414~DJ-Jewel-Posters.jpg
+G458~DJ-Free-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\G458~DJ-Free-Posters.jpg
+S978~Banjo-Lesson-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Músicas\S978~Banjo-Lesson-Posters.jpg

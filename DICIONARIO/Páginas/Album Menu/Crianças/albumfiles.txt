@@ -1,0 +1,25 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+ and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+10071143A~Woman-with-Basket-I-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\10071143A~Woman-with-Basket-I-Posters.jpg
+10071144A~Woman-with-Basket-II-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\10071144A~Woman-with-Basket-II-Posters.jpg
+10092547A~The-Thinker-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\10092547A~The-Thinker-Posters.jpg
+10092548A~Crossword-Puzzle-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\10092548A~Crossword-Puzzle-Posters.jpg
+345-21685~Summer-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\345-21685~Summer-Posters.jpg
+345-21686~Family-Ties-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\345-21686~Family-Ties-Posters.jpg
+5450~Reach-to-the-Heavens-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\5450~Reach-to-the-Heavens-Posters.jpg
+594-21855~Grandma-and-Me-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\594-21855~Grandma-and-Me-Posters.jpg
+9341~Mother-and-Son-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\9341~Mother-and-Son-Posters.jpg
+9360~Children-of-Rio-Bueno-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\9360~Children-of-Rio-Bueno-Posters.jpg
+9361~Mother-and-Child-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\9361~Mother-and-Child-Posters.jpg
+9375~Three-Girls-Praying-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\9375~Three-Girls-Praying-Posters.jpg
+BR-A206~De-Vous-a-Moi-I-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\BR-A206~De-Vous-a-Moi-I-Posters.jpg
+BR-A207~De-Vous-a-Moi-II-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\BR-A207~De-Vous-a-Moi-II-Posters.jpg
+BR-A208~De-Vous-a-Moi-III-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\BR-A208~De-Vous-a-Moi-III-Posters.jpg
+JO3001~King-of-the-Desert-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\JO3001~King-of-the-Desert-Posters.jpg
+JO3202~Desert-Flower-Posters.jpg	C:\Documents and Settings\Snaiphe\Meus documentos\Projeto Faperj\DICIONARIO\Páginas\Album\Crianças\JO3202~Desert-Flower-Posters.jpg
